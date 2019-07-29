@@ -1,2 +1,2 @@
 # ODP
-An Library for Open Ontology Design Pattern 
+A Library for Open Ontology Design Pattern 
